@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/solstice/static/css/main.3db6e89a.css",
-    "main.js": "/solstice/static/js/main.b568fde9.js",
+    "main.css": "/solstice/static/css/main.fb2853ba.css",
+    "main.js": "/solstice/static/js/main.113ebfcc.js",
     "index.html": "/solstice/index.html",
-    "main.3db6e89a.css.map": "/solstice/static/css/main.3db6e89a.css.map",
-    "main.b568fde9.js.map": "/solstice/static/js/main.b568fde9.js.map"
+    "main.fb2853ba.css.map": "/solstice/static/css/main.fb2853ba.css.map",
+    "main.113ebfcc.js.map": "/solstice/static/js/main.113ebfcc.js.map"
   },
   "entrypoints": [
-    "static/css/main.3db6e89a.css",
-    "static/js/main.b568fde9.js"
+    "static/css/main.fb2853ba.css",
+    "static/js/main.113ebfcc.js"
   ]
 }
