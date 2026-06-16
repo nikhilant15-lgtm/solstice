@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/solstice/static/css/main.3db6e89a.css",
+    "main.js": "/solstice/static/js/main.b568fde9.js",
+    "index.html": "/solstice/index.html",
+    "main.3db6e89a.css.map": "/solstice/static/css/main.3db6e89a.css.map",
+    "main.b568fde9.js.map": "/solstice/static/js/main.b568fde9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db6e89a.css",
+    "static/js/main.b568fde9.js"
+  ]
+}
