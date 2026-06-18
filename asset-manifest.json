@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/solstice/static/css/main.86cfc5d0.css",
-    "main.js": "/solstice/static/js/main.580e3b12.js",
+    "main.js": "/solstice/static/js/main.73d80360.js",
     "index.html": "/solstice/index.html",
     "main.86cfc5d0.css.map": "/solstice/static/css/main.86cfc5d0.css.map",
-    "main.580e3b12.js.map": "/solstice/static/js/main.580e3b12.js.map"
+    "main.73d80360.js.map": "/solstice/static/js/main.73d80360.js.map"
   },
   "entrypoints": [
     "static/css/main.86cfc5d0.css",
-    "static/js/main.580e3b12.js"
+    "static/js/main.73d80360.js"
   ]
 }
